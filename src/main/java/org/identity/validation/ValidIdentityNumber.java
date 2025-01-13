@@ -12,7 +12,7 @@ import java.lang.annotation.*;
 @Retention(RetentionPolicy.RUNTIME)
 public @interface ValidIdentityNumber {
     Country country() default Country.TURKEY;
-    String message() default "{InvalidTurkishIdentityNumber}";
+    String message() default "{InvalidNationalIdentityNumber}";
 
     Class<?>[] groups() default {};
 
