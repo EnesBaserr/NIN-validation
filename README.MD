@@ -89,3 +89,10 @@ We welcome contributions to enhance this library! To contribute:
 - Create a feature branch.
 - Commit your changes.
 - Submit a pull request.
+## License
+
+This project is licensed under the Apache License 2.0.
+
+You may use, copy, modify, and distribute this software in source and binary forms, with or without modification, provided that you meet the conditions stated in the Apache License 2.0. A copy of the license is included in the [LICENSE](LICENSE) file.
+
+For more details, see the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
